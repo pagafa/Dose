@@ -1,0 +1,40 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #222;
+	color: #fff;
+}
+
+.page {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	font-size: 30px;
+	text-align: center;
+}
+
+.page input {
+	font-size: 30px;
+	background-color: #22A;
+	text-align: center;
+	width: 100px;
+	border: 2px solid #A22;
+	border-radius: 25px;
+	color:#fff;
+}
+
+.medicina {
+	padding: 10px;
+	margin: 10px;
+	margin-top: 25px;
+	margin-left: 30px;
+	margin-right: 30px;
+	border: 2px solid #A22;
+	border-radius: 25px;
+	padding-left: 0;
+	padding-right: 0;
+}
